@@ -12,3 +12,4 @@ HOW TO PUBLISH FOR FREE (GitHub Pages)
 All links work without a server. Music links point to SoundCloud, and booking uses mailto.
 The two original tracks are deliberately listed as private demos; no public demo URL is exposed.
 For a custom domain, configure it under GitHub Pages settings after purchasing the domain.
+HEDGEBEATS OFFICIAL WEBSITE
